@@ -1,6 +1,6 @@
-# JupyterLab Template
+# Learning OpenCV
 
-JupyterLabの環境のテンプレート
+[OpenCV Tutorials — OpenCV Tutorials](https://docs.opencv.org/5.0/tutorials/tutorials.html) のノート
 
 ## プロジェクトの構成
 
