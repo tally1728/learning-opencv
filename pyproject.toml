@@ -1,0 +1,25 @@
+[project]
+name = "jupyterlab-template"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+	"black>=26.1.0",
+	"isort>=7.0.0",
+	"jupyterlab>=4.0.0",
+	"jupyterlab-code-formatter>=3.0.2",
+	"matplotlib>=3.10.8",
+	"numpy>=2.4.1",
+	"opencv-python-headless>=4.13.0.90",
+	"pandas>=3.0.0",
+	"ruff>=0.14.14",
+	"scikit-learn>=1.8.0",
+	"scipy>=1.17.1",
+	"seaborn>=0.13.2",
+	"statsmodels>=0.14.6",
+	"tqdm>=4.67.1",
+]
+
+[tool.uv]
+managed = true
